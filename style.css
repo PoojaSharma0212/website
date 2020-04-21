@@ -47,3 +47,9 @@ text-align:centre;
    top:200px;
   text-align:center;
 }
+
+.pic
+{ position:absolute;
+  top:45px;
+  left:950px;
+}
